@@ -14,7 +14,6 @@ Ivy
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## Setup Instructions
 Clone the repository to your local machine.
