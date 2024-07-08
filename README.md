@@ -22,6 +22,8 @@ Navigate to the project directory.
 Run npm install to install dependencies.
 Run npm start to start the development server.
 
+## Live Site
+The live site is hosted on GitHub Pages. You can access it here [https://chastyne.github.io/my-portfolio/]
 
 ## Contact Information
 For inquiries, please contact:
