@@ -10,6 +10,13 @@ header, footer {
     padding: 20px;
     background-color: #1a7a95;
 }
+header img.profile-pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 20px 0;
+}
 section {
     padding: 20px;
     margin: 20px auto;
